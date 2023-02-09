@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "Usama",
+        "lastname": "majid",
+        "dateofbirthday": "1995-12-08",
+        "gender": "0",
+        "city": "Baghdad"
+    },
+    {
+        "id": 1,
+        "name": "cris",
+        "lastname": "ronaldo",
+        "dateofbirthday": "1995-08-19",
+        "gender": "0",
+        "city": "portugal"
+    },
+    {
+        "id": 2,
+        "name": "heba",
+        "lastname": "majid",
+        "dateofbirthday": "1995-05-05",
+        "gender": "1",
+        "city": "Baghdad"
+    }
+]
